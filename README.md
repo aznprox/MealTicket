@@ -26,6 +26,25 @@ This application is a final group project for [GA Tech's Coding Boot Camp](https
 + Must not expose sensitive API key information on the server
 
 ##### User Story
+1. Users can create an account and login as a vendor or consumer or browse products  without an account or limitations
+
+2. Vendor View
++ Vendors must have a valid food license and it will be verified before they are allowed to have an account
++ **Profile Page**: Name, Profile Photo, Business Name, Location, Deliver/Pickup Details
++ **Add**: Product Name, Price, Description (50 Characters), Photo, Respond to Reviews (Cannot remove reviews)
++ **Update**: Product Name, Price, Description, Photo
++ **Remove**: Product Availability
+
+3. Consumer View
++ **Browse Vendors**: Location, Culture, Dish/Baked Good Search
++ **Profile**: Name, Profile Photo, Interests, Payment Information, History of Reviews and Comments
++ Place Advanced Order
++ Cancel Order
++ Purchase Product
++ Review Product
+
+4. Product results page will show based on user search by location, product name, or vendor name
+
 
 ### Visuals
 <img src="visuals/Landing2.jpg" width="300" height="450"/>

@@ -17,6 +17,13 @@ This application is a final group project for [GA Tech's Coding Boot Camp](https
 ##### User Story
 
 ### Visuals
+<img src="visuals/Landing2.jpg" width="300" height="450"/>
+<img src="visuals/Landing1.jpg" width="600" height="400"/>
+<img src="visuals/CategoryNavBar.jpg" width="600" height="400"/>
+<img src="visuals/Featured.jpg" width="600" height="400"/>
+<img src="visuals/Header.jpg" width="600" height="400"/>
+<img src="visuals/RecentViews.jpg" width="600" height="400"/>
+<img src="visuals/Search.jpg" width="600" height="400"/>
 
 ## Acknowledgments
 

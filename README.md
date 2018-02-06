@@ -45,7 +45,6 @@ This application is a final group project for [GA Tech's Coding Boot Camp](https
 
 4. Product results page will show based on user search by location, product name, or vendor name
 
-
 ### Visuals
 <img src="visuals/Landing2.jpg" width="300" height="450"/>
 <img src="visuals/Landing1.jpg" width="600" height="400"/>

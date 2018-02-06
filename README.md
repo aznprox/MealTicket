@@ -42,6 +42,8 @@ This application is a final group project for [GA Tech's Coding Boot Camp](https
 + Cancel Order
 + Purchase Product
 + Review Product
++ Remove Product Review
++ Update Product Review
 
 4. Product results page will show based on user search by location, product name, or vendor name
 
